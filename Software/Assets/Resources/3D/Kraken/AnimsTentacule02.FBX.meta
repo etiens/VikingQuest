@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 2dc61ac422fda0249a8dfc95b110274b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Tentacule_Bone_01
+    100004: Tentacule_Bone_02
+    100006: Tentacule_Bone_03
+    100008: Tentacule_Bone_04
+    100010: Tentacule_Bone_05
+    100012: Tentacule_Bone_06
+    100014: Tentacule_CtrL_01
+    100016: Tentacule_CtrL_02
+    100018: Tentacule_CtrL_03
+    100020: Tentacule_CtrL_04
+    100022: Tentacule_CtrL_05
+    100024: Tentacule_Master
+    100026: Tentacule_Mesh_01
+    400000: //RootNode
+    400002: Tentacule_Bone_01
+    400004: Tentacule_Bone_02
+    400006: Tentacule_Bone_03
+    400008: Tentacule_Bone_04
+    400010: Tentacule_Bone_05
+    400012: Tentacule_Bone_06
+    400014: Tentacule_CtrL_01
+    400016: Tentacule_CtrL_02
+    400018: Tentacule_CtrL_03
+    400020: Tentacule_CtrL_04
+    400022: Tentacule_CtrL_05
+    400024: Tentacule_Master
+    400026: Tentacule_Mesh_01
+    4300000: Tentacule_Mesh_01
+    7400000: Idle
+    7400002: Smash
+    7400004: Throw
+    7400006: Angry
+    9500000: //RootNode
+    13700000: Tentacule_Mesh_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 137
+      lastFrame: 271
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tentacule_Master
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05/Tentacule_Bone_06
+        weight: 1
+      - path: Tentacule_Mesh_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Smash
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tentacule_Master
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05/Tentacule_Bone_06
+        weight: 1
+      - path: Tentacule_Mesh_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Throw
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tentacule_Master
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05/Tentacule_Bone_06
+        weight: 1
+      - path: Tentacule_Mesh_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Angry
+      takeName: Take 001
+      firstFrame: 285
+      lastFrame: 308
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: .5
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 1
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Tentacule_Master
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05
+        weight: 1
+      - path: Tentacule_Master/Tentacule_Bone_01/Tentacule_CtrL_01/Tentacule_Bone_02/Tentacule_CtrL_02/Tentacule_Bone_03/Tentacule_CtrL_03/Tentacule_Bone_04/Tentacule_CtrL_04/Tentacule_Bone_05/Tentacule_CtrL_05/Tentacule_Bone_06
+        weight: 1
+      - path: Tentacule_Mesh_01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 2932c95df85869940b4432bc13bb0d0a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MeshTentacule
+    100004: MeshVantouses_01
+    100006: MeshVantouses_02
+    100008: MeshVantouses_03
+    100010: MeshVantouses_04
+    100012: MeshVantouses_05
+    100014: MeshVantouses_06
+    100016: MeshVantouses_07
+    100018: MeshVantouses_08
+    100020: MeshVantouses_09
+    100022: MeshVantouses_10
+    100024: MeshVantouses_11
+    100026: MeshVantouses_12
+    100028: MeshVantouses_13
+    100030: MeshVantouses_14
+    100032: MeshVantouses_15
+    100034: MeshVantouses_16
+    100036: MeshVantouses_17
+    100038: MeshVantouses_18
+    100040: MeshVantouses_19
+    100042: MeshVantouses_20
+    100044: MeshVantouses_21
+    100046: MeshVantouses_22
+    100048: MeshVantouses_23
+    100050: MeshVantouses_24
+    100052: MeshVantouses_25
+    100054: MeshVantouses_26
+    100056: MeshVantouses_27
+    100058: MeshVantouses_28
+    100060: MeshVantouses_29
+    100062: MeshVantouses_30
+    100064: MeshVantouses_31
+    100066: MeshVantouses_32
+    100068: MeshVantouses_33
+    100070: Tentacule_Bone_01
+    100072: Tentacule_Bone_02
+    100074: Tentacule_Bone_03
+    100076: Tentacule_Bone_04
+    100078: Tentacule_Bone_End
+    400000: //RootNode
+    400002: MeshTentacule
+    400004: MeshVantouses_01
+    400006: MeshVantouses_02
+    400008: MeshVantouses_03
+    400010: MeshVantouses_04
+    400012: MeshVantouses_05
+    400014: MeshVantouses_06
+    400016: MeshVantouses_07
+    400018: MeshVantouses_08
+    400020: MeshVantouses_09
+    400022: MeshVantouses_10
+    400024: MeshVantouses_11
+    400026: MeshVantouses_12
+    400028: MeshVantouses_13
+    400030: MeshVantouses_14
+    400032: MeshVantouses_15
+    400034: MeshVantouses_16
+    400036: MeshVantouses_17
+    400038: MeshVantouses_18
+    400040: MeshVantouses_19
+    400042: MeshVantouses_20
+    400044: MeshVantouses_21
+    400046: MeshVantouses_22
+    400048: MeshVantouses_23
+    400050: MeshVantouses_24
+    400052: MeshVantouses_25
+    400054: MeshVantouses_26
+    400056: MeshVantouses_27
+    400058: MeshVantouses_28
+    400060: MeshVantouses_29
+    400062: MeshVantouses_30
+    400064: MeshVantouses_31
+    400066: MeshVantouses_32
+    400068: MeshVantouses_33
+    400070: Tentacule_Bone_01
+    400072: Tentacule_Bone_02
+    400074: Tentacule_Bone_03
+    400076: Tentacule_Bone_04
+    400078: Tentacule_Bone_End
+    4300000: MeshVantouses_33
+    4300002: MeshVantouses_32
+    4300004: MeshVantouses_31
+    4300006: MeshVantouses_30
+    4300008: MeshVantouses_29
+    4300010: MeshVantouses_28
+    4300012: MeshVantouses_27
+    4300014: MeshVantouses_26
+    4300016: MeshVantouses_25
+    4300018: MeshVantouses_24
+    4300020: MeshVantouses_23
+    4300022: MeshVantouses_22
+    4300024: MeshVantouses_21
+    4300026: MeshVantouses_20
+    4300028: MeshVantouses_19
+    4300030: MeshVantouses_18
+    4300032: MeshVantouses_17
+    4300034: MeshVantouses_16
+    4300036: MeshVantouses_15
+    4300038: MeshVantouses_14
+    4300040: MeshVantouses_13
+    4300042: MeshVantouses_12
+    4300044: MeshVantouses_11
+    4300046: MeshVantouses_10
+    4300048: MeshVantouses_09
+    4300050: MeshVantouses_08
+    4300052: MeshVantouses_07
+    4300054: MeshVantouses_06
+    4300056: MeshVantouses_05
+    4300058: MeshVantouses_04
+    4300060: MeshVantouses_03
+    4300062: MeshVantouses_02
+    4300064: MeshVantouses_01
+    4300066: MeshTentacule
+    7400000: VerticalSmash
+    7400002: IcebergThrow
+    7400004: Idle
+    9500000: //RootNode
+    13700000: MeshTentacule
+    13700002: MeshVantouses_01
+    13700004: MeshVantouses_02
+    13700006: MeshVantouses_03
+    13700008: MeshVantouses_04
+    13700010: MeshVantouses_05
+    13700012: MeshVantouses_06
+    13700014: MeshVantouses_07
+    13700016: MeshVantouses_08
+    13700018: MeshVantouses_09
+    13700020: MeshVantouses_10
+    13700022: MeshVantouses_11
+    13700024: MeshVantouses_12
+    13700026: MeshVantouses_13
+    13700028: MeshVantouses_14
+    13700030: MeshVantouses_15
+    13700032: MeshVantouses_16
+    13700034: MeshVantouses_17
+    13700036: MeshVantouses_18
+    13700038: MeshVantouses_19
+    13700040: MeshVantouses_20
+    13700042: MeshVantouses_21
+    13700044: MeshVantouses_22
+    13700046: MeshVantouses_23
+    13700048: MeshVantouses_24
+    13700050: MeshVantouses_25
+    13700052: MeshVantouses_26
+    13700054: MeshVantouses_27
+    13700056: MeshVantouses_28
+    13700058: MeshVantouses_29
+    13700060: MeshVantouses_30
+    13700062: MeshVantouses_31
+    13700064: MeshVantouses_32
+    13700066: MeshVantouses_33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: VerticalSmash
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MeshTentacule
+        weight: 1
+      - path: MeshVantouses_01
+        weight: 1
+      - path: MeshVantouses_02
+        weight: 1
+      - path: MeshVantouses_03
+        weight: 1
+      - path: MeshVantouses_04
+        weight: 1
+      - path: MeshVantouses_05
+        weight: 1
+      - path: MeshVantouses_06
+        weight: 1
+      - path: MeshVantouses_07
+        weight: 1
+      - path: MeshVantouses_08
+        weight: 1
+      - path: MeshVantouses_09
+        weight: 1
+      - path: MeshVantouses_10
+        weight: 1
+      - path: MeshVantouses_11
+        weight: 1
+      - path: MeshVantouses_12
+        weight: 1
+      - path: MeshVantouses_13
+        weight: 1
+      - path: MeshVantouses_14
+        weight: 1
+      - path: MeshVantouses_15
+        weight: 1
+      - path: MeshVantouses_16
+        weight: 1
+      - path: MeshVantouses_17
+        weight: 1
+      - path: MeshVantouses_18
+        weight: 1
+      - path: MeshVantouses_19
+        weight: 1
+      - path: MeshVantouses_20
+        weight: 1
+      - path: MeshVantouses_21
+        weight: 1
+      - path: MeshVantouses_22
+        weight: 1
+      - path: MeshVantouses_23
+        weight: 1
+      - path: MeshVantouses_24
+        weight: 1
+      - path: MeshVantouses_25
+        weight: 1
+      - path: MeshVantouses_26
+        weight: 1
+      - path: MeshVantouses_27
+        weight: 1
+      - path: MeshVantouses_28
+        weight: 1
+      - path: MeshVantouses_29
+        weight: 1
+      - path: MeshVantouses_30
+        weight: 1
+      - path: MeshVantouses_31
+        weight: 1
+      - path: MeshVantouses_32
+        weight: 1
+      - path: MeshVantouses_33
+        weight: 1
+      - path: Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04/Tentacule_Bone_End
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: IcebergThrow
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MeshTentacule
+        weight: 1
+      - path: MeshVantouses_01
+        weight: 1
+      - path: MeshVantouses_02
+        weight: 1
+      - path: MeshVantouses_03
+        weight: 1
+      - path: MeshVantouses_04
+        weight: 1
+      - path: MeshVantouses_05
+        weight: 1
+      - path: MeshVantouses_06
+        weight: 1
+      - path: MeshVantouses_07
+        weight: 1
+      - path: MeshVantouses_08
+        weight: 1
+      - path: MeshVantouses_09
+        weight: 1
+      - path: MeshVantouses_10
+        weight: 1
+      - path: MeshVantouses_11
+        weight: 1
+      - path: MeshVantouses_12
+        weight: 1
+      - path: MeshVantouses_13
+        weight: 1
+      - path: MeshVantouses_14
+        weight: 1
+      - path: MeshVantouses_15
+        weight: 1
+      - path: MeshVantouses_16
+        weight: 1
+      - path: MeshVantouses_17
+        weight: 1
+      - path: MeshVantouses_18
+        weight: 1
+      - path: MeshVantouses_19
+        weight: 1
+      - path: MeshVantouses_20
+        weight: 1
+      - path: MeshVantouses_21
+        weight: 1
+      - path: MeshVantouses_22
+        weight: 1
+      - path: MeshVantouses_23
+        weight: 1
+      - path: MeshVantouses_24
+        weight: 1
+      - path: MeshVantouses_25
+        weight: 1
+      - path: MeshVantouses_26
+        weight: 1
+      - path: MeshVantouses_27
+        weight: 1
+      - path: MeshVantouses_28
+        weight: 1
+      - path: MeshVantouses_29
+        weight: 1
+      - path: MeshVantouses_30
+        weight: 1
+      - path: MeshVantouses_31
+        weight: 1
+      - path: MeshVantouses_32
+        weight: 1
+      - path: MeshVantouses_33
+        weight: 1
+      - path: Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04/Tentacule_Bone_End
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 137
+      lastFrame: 271
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MeshTentacule
+        weight: 1
+      - path: MeshVantouses_01
+        weight: 1
+      - path: MeshVantouses_02
+        weight: 1
+      - path: MeshVantouses_03
+        weight: 1
+      - path: MeshVantouses_04
+        weight: 1
+      - path: MeshVantouses_05
+        weight: 1
+      - path: MeshVantouses_06
+        weight: 1
+      - path: MeshVantouses_07
+        weight: 1
+      - path: MeshVantouses_08
+        weight: 1
+      - path: MeshVantouses_09
+        weight: 1
+      - path: MeshVantouses_10
+        weight: 1
+      - path: MeshVantouses_11
+        weight: 1
+      - path: MeshVantouses_12
+        weight: 1
+      - path: MeshVantouses_13
+        weight: 1
+      - path: MeshVantouses_14
+        weight: 1
+      - path: MeshVantouses_15
+        weight: 1
+      - path: MeshVantouses_16
+        weight: 1
+      - path: MeshVantouses_17
+        weight: 1
+      - path: MeshVantouses_18
+        weight: 1
+      - path: MeshVantouses_19
+        weight: 1
+      - path: MeshVantouses_20
+        weight: 1
+      - path: MeshVantouses_21
+        weight: 1
+      - path: MeshVantouses_22
+        weight: 1
+      - path: MeshVantouses_23
+        weight: 1
+      - path: MeshVantouses_24
+        weight: 1
+      - path: MeshVantouses_25
+        weight: 1
+      - path: MeshVantouses_26
+        weight: 1
+      - path: MeshVantouses_27
+        weight: 1
+      - path: MeshVantouses_28
+        weight: 1
+      - path: MeshVantouses_29
+        weight: 1
+      - path: MeshVantouses_30
+        weight: 1
+      - path: MeshVantouses_31
+        weight: 1
+      - path: MeshVantouses_32
+        weight: 1
+      - path: MeshVantouses_33
+        weight: 1
+      - path: Tentacule_Bone_01
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04
+        weight: 1
+      - path: Tentacule_Bone_01/Tentacule_Bone_02/Tentacule_Bone_03/Tentacule_Bone_04/Tentacule_Bone_End
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

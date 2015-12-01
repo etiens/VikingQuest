@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: bc1bb2661ab7f6746833bcfb14b27e1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xbox360_StickRight
+    21300002: xbox360_StickRight
+    21300004: xbox360_BumperLeft
+    21300006: xbox360_BumperRight
+    21300008: xbox360_TriggerLeft
+    21300010: xbox360_TriggerRight
+    21300012: xbox360_DPadUpDown
+    21300014: xbox360_Select
+    21300016: xbox360_Start
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: xbox360_StickRight
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_StickRight
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_BumperLeft
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 135
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_BumperRight
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_TriggerLeft
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_TriggerRight
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 71
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_DPadUpDown
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_Select
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xbox360_Start
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 13
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: 82c6e3e3deeeaa849863424045613add
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Shooter
+    100002: Shooter_BoneClavicule_L
+    100004: Shooter_BoneClavicule_R
+    100006: Shooter_BoneFoot_L
+    100008: Shooter_BoneFoot_R
+    100010: Shooter_BoneHand_L
+    100012: Shooter_BoneHand_LEnd
+    100014: Shooter_BoneHand_R
+    100016: Shooter_BoneHand_REnd
+    100018: Shooter_BoneHead
+    100020: Shooter_BoneHips
+    100022: Shooter_BoneIndex_L01
+    100024: Shooter_BoneIndex_L02
+    100026: Shooter_BoneIndex_L03
+    100028: Shooter_BoneIndex_R01
+    100030: Shooter_BoneIndex_R02
+    100032: Shooter_BoneIndex_R03
+    100034: Shooter_BoneLeg_L01
+    100036: Shooter_BoneLeg_L02
+    100038: Shooter_BoneLeg_R01
+    100040: Shooter_BoneLeg_R02
+    100042: Shooter_BoneLowerArm_L
+    100044: Shooter_BoneLowerArm_R
+    100046: Shooter_BoneMiddle_L01
+    100048: Shooter_BoneMiddle_L02
+    100050: Shooter_BoneMiddle_L03
+    100052: Shooter_BoneMiddle_R01
+    100054: Shooter_BoneMiddle_R02
+    100056: Shooter_BoneMiddle_R03
+    100058: Shooter_BoneNeck
+    100060: Shooter_BonePinky_L01
+    100062: Shooter_BonePinky_L02
+    100064: Shooter_BonePinky_L03
+    100066: Shooter_BonePinky_R01
+    100068: Shooter_BonePinky_R02
+    100070: Shooter_BonePinky_R03
+    100072: Shooter_BoneRing_L01
+    100074: Shooter_BoneRing_L02
+    100076: Shooter_BoneRing_L03
+    100078: Shooter_BoneRing_R01
+    100080: Shooter_BoneRing_R02
+    100082: Shooter_BoneRing_R03
+    100084: Shooter_BoneSpline_01
+    100086: Shooter_BoneSpline_02
+    100088: Shooter_BoneSpline_03
+    100090: Shooter_BoneThumb_L01
+    100092: Shooter_BoneThumb_L02
+    100094: Shooter_BoneThumb_R01
+    100096: Shooter_BoneThumb_R02
+    100098: Shooter_BoneToe_L
+    100100: Shooter_BoneToe_R
+    100102: Shooter_BoneUpperArm_L
+    100104: Shooter_BoneUpperArm_R
+    100106: Shooter_COG
+    100108: Shooter_CtrLFoot_L
+    100110: Shooter_CtrLFoot_R
+    100112: Shooter_CtrLHand_L
+    100114: Shooter_CtrLHand_R
+    100116: Shooter_CtrLHead
+    100118: Shooter_CtrLHips
+    100120: Shooter_CtrLIndex_L01
+    100122: Shooter_CtrLIndex_L02
+    100124: Shooter_CtrLIndex_L03
+    100126: Shooter_CtrLIndex_R01
+    100128: Shooter_CtrLIndex_R02
+    100130: Shooter_CtrLIndex_R03
+    100132: Shooter_CtrLMiddle_L01
+    100134: Shooter_CtrLMiddle_L02
+    100136: Shooter_CtrLMiddle_L03
+    100138: Shooter_CtrLMiddle_R01
+    100140: Shooter_CtrLMiddle_R02
+    100142: Shooter_CtrLMiddle_R03
+    100144: Shooter_CtrLNeck
+    100146: Shooter_CtrLPinky_L01
+    100148: Shooter_CtrLPinky_L02
+    100150: Shooter_CtrLPinky_L03
+    100152: Shooter_CtrLPinky_R01
+    100154: Shooter_CtrLPinky_R02
+    100156: Shooter_CtrLPinky_R03
+    100158: Shooter_CtrLRing_L01
+    100160: Shooter_CtrLRing_L02
+    100162: Shooter_CtrLRing_L03
+    100164: Shooter_CtrLRing_R01
+    100166: Shooter_CtrLRing_R02
+    100168: Shooter_CtrLRing_R03
+    100170: Shooter_CtrLShoulder_L
+    100172: Shooter_CtrLShoulder_R
+    100174: Shooter_CtrLSpline_01
+    100176: Shooter_CtrLSpline_02
+    100178: Shooter_CtrLSpline_03
+    100180: Shooter_CtrLThumb_L01
+    100182: Shooter_CtrLThumb_L02
+    100184: Shooter_CtrLThumb_R01
+    100186: Shooter_CtrLThumb_R02
+    100188: Shooter_CtrLToe_L
+    100190: Shooter_CtrLToe_R
+    100192: Shooter_Master
+    100194: //RootNode
+    400000: Shooter
+    400002: Shooter_BoneClavicule_L
+    400004: Shooter_BoneClavicule_R
+    400006: Shooter_BoneFoot_L
+    400008: Shooter_BoneFoot_R
+    400010: Shooter_BoneHand_L
+    400012: Shooter_BoneHand_LEnd
+    400014: Shooter_BoneHand_R
+    400016: Shooter_BoneHand_REnd
+    400018: Shooter_BoneHead
+    400020: Shooter_BoneHips
+    400022: Shooter_BoneIndex_L01
+    400024: Shooter_BoneIndex_L02
+    400026: Shooter_BoneIndex_L03
+    400028: Shooter_BoneIndex_R01
+    400030: Shooter_BoneIndex_R02
+    400032: Shooter_BoneIndex_R03
+    400034: Shooter_BoneLeg_L01
+    400036: Shooter_BoneLeg_L02
+    400038: Shooter_BoneLeg_R01
+    400040: Shooter_BoneLeg_R02
+    400042: Shooter_BoneLowerArm_L
+    400044: Shooter_BoneLowerArm_R
+    400046: Shooter_BoneMiddle_L01
+    400048: Shooter_BoneMiddle_L02
+    400050: Shooter_BoneMiddle_L03
+    400052: Shooter_BoneMiddle_R01
+    400054: Shooter_BoneMiddle_R02
+    400056: Shooter_BoneMiddle_R03
+    400058: Shooter_BoneNeck
+    400060: Shooter_BonePinky_L01
+    400062: Shooter_BonePinky_L02
+    400064: Shooter_BonePinky_L03
+    400066: Shooter_BonePinky_R01
+    400068: Shooter_BonePinky_R02
+    400070: Shooter_BonePinky_R03
+    400072: Shooter_BoneRing_L01
+    400074: Shooter_BoneRing_L02
+    400076: Shooter_BoneRing_L03
+    400078: Shooter_BoneRing_R01
+    400080: Shooter_BoneRing_R02
+    400082: Shooter_BoneRing_R03
+    400084: Shooter_BoneSpline_01
+    400086: Shooter_BoneSpline_02
+    400088: Shooter_BoneSpline_03
+    400090: Shooter_BoneThumb_L01
+    400092: Shooter_BoneThumb_L02
+    400094: Shooter_BoneThumb_R01
+    400096: Shooter_BoneThumb_R02
+    400098: Shooter_BoneToe_L
+    400100: Shooter_BoneToe_R
+    400102: Shooter_BoneUpperArm_L
+    400104: Shooter_BoneUpperArm_R
+    400106: Shooter_COG
+    400108: Shooter_CtrLFoot_L
+    400110: Shooter_CtrLFoot_R
+    400112: Shooter_CtrLHand_L
+    400114: Shooter_CtrLHand_R
+    400116: Shooter_CtrLHead
+    400118: Shooter_CtrLHips
+    400120: Shooter_CtrLIndex_L01
+    400122: Shooter_CtrLIndex_L02
+    400124: Shooter_CtrLIndex_L03
+    400126: Shooter_CtrLIndex_R01
+    400128: Shooter_CtrLIndex_R02
+    400130: Shooter_CtrLIndex_R03
+    400132: Shooter_CtrLMiddle_L01
+    400134: Shooter_CtrLMiddle_L02
+    400136: Shooter_CtrLMiddle_L03
+    400138: Shooter_CtrLMiddle_R01
+    400140: Shooter_CtrLMiddle_R02
+    400142: Shooter_CtrLMiddle_R03
+    400144: Shooter_CtrLNeck
+    400146: Shooter_CtrLPinky_L01
+    400148: Shooter_CtrLPinky_L02
+    400150: Shooter_CtrLPinky_L03
+    400152: Shooter_CtrLPinky_R01
+    400154: Shooter_CtrLPinky_R02
+    400156: Shooter_CtrLPinky_R03
+    400158: Shooter_CtrLRing_L01
+    400160: Shooter_CtrLRing_L02
+    400162: Shooter_CtrLRing_L03
+    400164: Shooter_CtrLRing_R01
+    400166: Shooter_CtrLRing_R02
+    400168: Shooter_CtrLRing_R03
+    400170: Shooter_CtrLShoulder_L
+    400172: Shooter_CtrLShoulder_R
+    400174: Shooter_CtrLSpline_01
+    400176: Shooter_CtrLSpline_02
+    400178: Shooter_CtrLSpline_03
+    400180: Shooter_CtrLThumb_L01
+    400182: Shooter_CtrLThumb_L02
+    400184: Shooter_CtrLThumb_R01
+    400186: Shooter_CtrLThumb_R02
+    400188: Shooter_CtrLToe_L
+    400190: Shooter_CtrLToe_R
+    400192: Shooter_Master
+    400194: //RootNode
+    4300000: Shooter
+    7400000: Idle
+    7400002: QTE
+    7400004: QTE Hold
+    7400006: QTE End
+    9500000: //RootNode
+    13700000: Shooter
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 10.9700003
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: Shooter_Master
+        weight: 1
+      - path: Shooter_Master/Shooter_COG
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02/Shooter_BoneLeg_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02/Shooter_BoneLeg_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_BoneSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_BoneSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L/Shooter_BoneLowerArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R/Shooter_BoneLowerArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_BoneNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead/Shooter_BoneHead
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L/Shooter_BoneToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R/Shooter_BoneToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03/Shooter_BoneIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03/Shooter_BoneMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03/Shooter_BonePinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03/Shooter_BoneRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02/Shooter_BoneThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03/Shooter_BoneIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03/Shooter_BoneMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03/Shooter_BonePinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03/Shooter_BoneRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02/Shooter_BoneThumb_R02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: QTE
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 20.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: Shooter_Master
+        weight: 1
+      - path: Shooter_Master/Shooter_COG
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02/Shooter_BoneLeg_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02/Shooter_BoneLeg_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_BoneSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_BoneSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L/Shooter_BoneLowerArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R/Shooter_BoneLowerArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_BoneNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead/Shooter_BoneHead
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L/Shooter_BoneToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R/Shooter_BoneToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03/Shooter_BoneIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03/Shooter_BoneMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03/Shooter_BonePinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03/Shooter_BoneRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02/Shooter_BoneThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03/Shooter_BoneIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03/Shooter_BoneMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03/Shooter_BonePinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03/Shooter_BoneRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02/Shooter_BoneThumb_R02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: QTE Hold
+      takeName: Take 001
+      firstFrame: 20.5
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: Shooter_Master
+        weight: 1
+      - path: Shooter_Master/Shooter_COG
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02/Shooter_BoneLeg_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02/Shooter_BoneLeg_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_BoneSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_BoneSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L/Shooter_BoneLowerArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R/Shooter_BoneLowerArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_BoneNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead/Shooter_BoneHead
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L/Shooter_BoneToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R/Shooter_BoneToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03/Shooter_BoneIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03/Shooter_BoneMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03/Shooter_BonePinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03/Shooter_BoneRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02/Shooter_BoneThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03/Shooter_BoneIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03/Shooter_BoneMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03/Shooter_BonePinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03/Shooter_BoneRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02/Shooter_BoneThumb_R02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: QTE End
+      takeName: Take 001
+      firstFrame: 25.1000004
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: Shooter_Master
+        weight: 1
+      - path: Shooter_Master/Shooter_COG
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneHips
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_L02/Shooter_BoneLeg_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLHips/Shooter_BoneLeg_R02/Shooter_BoneLeg_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_BoneSpline_03
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_BoneSpline_02
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_L/Shooter_BoneClavicule_L/Shooter_BoneUpperArm_L/Shooter_BoneLowerArm_L
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_BoneSpline_01/Shooter_CtrLShoulder_R/Shooter_BoneClavicule_R/Shooter_BoneUpperArm_R/Shooter_BoneLowerArm_R
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_BoneNeck
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead
+        weight: 1
+      - path: Shooter_Master/Shooter_COG/Shooter_CtrLSpline_03/Shooter_CtrLSpline_02/Shooter_CtrLSpline_01/Shooter_CtrLNeck/Shooter_CtrLHead/Shooter_BoneHead
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_L/Shooter_BoneFoot_L/Shooter_CtrLToe_L/Shooter_BoneToe_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLFoot_R/Shooter_BoneFoot_R/Shooter_CtrLToe_R/Shooter_BoneToe_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLIndex_L01/Shooter_BoneIndex_L01/Shooter_CtrLIndex_L02/Shooter_BoneIndex_L02/Shooter_CtrLIndex_L03/Shooter_BoneIndex_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLMiddle_L01/Shooter_BoneMiddle_L01/Shooter_CtrLMiddle_L02/Shooter_BoneMiddle_L02/Shooter_CtrLMiddle_L03/Shooter_BoneMiddle_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLPinky_L01/Shooter_BonePinky_L01/Shooter_CtrLPinky_L02/Shooter_BonePinky_L02/Shooter_CtrLPinky_L03/Shooter_BonePinky_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLRing_L01/Shooter_BoneRing_L01/Shooter_CtrLRing_L02/Shooter_BoneRing_L02/Shooter_CtrLRing_L03/Shooter_BoneRing_L03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_L/Shooter_BoneHand_LEnd/Shooter_BoneHand_L/Shooter_CtrLThumb_L01/Shooter_BoneThumb_L01/Shooter_CtrLThumb_L02/Shooter_BoneThumb_L02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLIndex_R01/Shooter_BoneIndex_R01/Shooter_CtrLIndex_R02/Shooter_BoneIndex_R02/Shooter_CtrLIndex_R03/Shooter_BoneIndex_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLMiddle_R01/Shooter_BoneMiddle_R01/Shooter_CtrLMiddle_R02/Shooter_BoneMiddle_R02/Shooter_CtrLMiddle_R03/Shooter_BoneMiddle_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLPinky_R01/Shooter_BonePinky_R01/Shooter_CtrLPinky_R02/Shooter_BonePinky_R02/Shooter_CtrLPinky_R03/Shooter_BonePinky_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLRing_R01/Shooter_BoneRing_R01/Shooter_CtrLRing_R02/Shooter_BoneRing_R02/Shooter_CtrLRing_R03/Shooter_BoneRing_R03
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02
+        weight: 1
+      - path: Shooter_Master/Shooter_CtrLHand_R/Shooter_BoneHand_REnd/Shooter_BoneHand_R/Shooter_CtrLThumb_R01/Shooter_BoneThumb_R01/Shooter_CtrLThumb_R02/Shooter_BoneThumb_R02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
